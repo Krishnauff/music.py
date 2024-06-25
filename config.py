@@ -63,7 +63,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
 STRING1 = getenv("STRING_SESSION", None)
-STRING2 = getenv("STRING_SESSION2", None)
+STRING2 = getenv("STRING_SESSION2","BQGxEM0AGZZbfeWMNCcZ3n8zOv4KwnyOUEyZ8nmNkqDic3g9GeGOP0lQvtcu9SvQHOyIYQhDJyGhRIXGj6rSF_SRxdXX7Yp0ybWp1b5_r4XPK0mWHZBV6r2_wRslx6mtBgn_jSAoMnnSoEq6Pgo3mxmI514ksX6cS9lf9Eb06P0NIsk6PJ2vrJbQbvT6A-eeFiW7GbDNf_CZAKMstbmuL9ErQEsMxFO4RBIP1go5qbPiPiPKR4d3aZ22EFhAttWwY879Jt35DMW4kychb5_PpICrqeOrB_tkyRdgp4hCZ-aU_Lb8waTD4ZeaUKkkpTkqIWSTMJr4dGNv_St001feXLsYrfDwvAAAAAFKq2dDAA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
@@ -81,16 +81,16 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "....."
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
+    "PING_IMG_URL", "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
+STATS_IMG_URL = "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
+STREAM_IMG_URL = "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/919b9649d6c7c16f8f6c2.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
 
